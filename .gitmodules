@@ -1,0 +1,3 @@
+[submodule "evercheck-apps"]
+	path = evercheck-apps
+	url = git@github.com:cebroker/evercheck-apps.git
