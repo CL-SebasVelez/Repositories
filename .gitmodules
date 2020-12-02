@@ -22,3 +22,6 @@
 [submodule "ec-wallet-web"]
 	path = ec-wallet-web
 	url = git@github.com:cebroker/ec-wallet-web.git
+[submodule "ec-events-gateway"]
+	path = ec-events-gateway
+	url = git@github.com:cebroker/ec-events-gateway.git
