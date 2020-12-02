@@ -1,3 +1,24 @@
 [submodule "evercheck-apps"]
 	path = evercheck-apps
 	url = git@github.com:cebroker/evercheck-apps.git
+[submodule "ec-posthire-api"]
+	path = ec-posthire-api
+	url = git@github.com:cebroker/ec-posthire-api.git
+[submodule "ec-prehire-api"]
+	path = ec-prehire-api
+	url = git@github.com:cebroker/ec-prehire-api.git
+[submodule "ec-prehire-queues"]
+	path = ec-prehire-queues
+	url = git@github.com:cebroker/ec-prehire-queues.git
+[submodule "ec-wallet"]
+	path = ec-wallet
+	url = git@github.com:cebroker/ec-wallet.git
+[submodule "ec-wallet-api"]
+	path = ec-wallet-api
+	url = git@github.com:cebroker/ec-wallet-api.git
+[submodule "ec-wallet-api-web"]
+	path = ec-wallet-api-web
+	url = git@github.com:cebroker/ec-wallet-api-web.git
+[submodule "ec-wallet-web"]
+	path = ec-wallet-web
+	url = git@github.com:cebroker/ec-wallet-web.git
